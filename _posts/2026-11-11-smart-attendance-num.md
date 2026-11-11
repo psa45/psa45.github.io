@@ -1,7 +1,7 @@
 ---
 title: 'SMART Attendance Number'
 date: 2026-11-11
-permalink: /posts/2199/01/blog-post-4/
+permalink: /posts/2026/11/smart-attendance-num/
 tags:
   - cool posts
   - category1
