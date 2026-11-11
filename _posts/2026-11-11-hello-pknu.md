@@ -1,7 +1,7 @@
 ---
 title: 'HELLO PKNU'
 date: 2026-11-11
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/2026/11/hello-pknu/
 tags:
   - cool posts
   - category1
