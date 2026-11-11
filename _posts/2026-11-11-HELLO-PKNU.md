@@ -1,5 +1,5 @@
 ---
-title: 'HELLO PKNU'
+title: 'SMART Attendance Number'
 date: 2026-11-11
 permalink: /posts/2199/01/blog-post-4/
 tags:
@@ -8,4 +8,4 @@ tags:
   - category2
 ---
 
-OPENSOURCE IS GOOD
+822
