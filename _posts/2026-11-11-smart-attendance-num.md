@@ -1,5 +1,5 @@
 ---
-title: 'SMART Attendance Number'
+title: 'Student & Attendance Number'
 date: 2026-11-11
 permalink: /posts/2026/11/smart-attendance-num/
 tags:
@@ -8,4 +8,4 @@ tags:
   - PKNU
 ---
 
-822
+808
