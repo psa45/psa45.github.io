@@ -24,11 +24,11 @@ repository               : "psa45/psa45.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "PYAE SONE AUNG"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Student at PKNU"
+  location         : "Busan"
+  employer         : "PKNU"
   uri              : # URL
   email            : "none@example.org" 
 
